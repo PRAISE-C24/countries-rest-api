@@ -20,9 +20,9 @@ Users should be able to:
 
 # Links
 
-- My Solution URL:https://github.com/PRAISE-C24/country-api
+- My Solution URL:https://github.com/PRAISE-C24/countries-rest-api
 
-- Live Site URL: https://praise-c24.github.io/country-api
+- Live Site URL: https://praise-c24.github.io/countries-rest-api
   /
 
 # Built with
